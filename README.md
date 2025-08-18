@@ -1,51 +1,58 @@
-<!--
-**andrewdotdev0/andrewdotdev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello World, I'm Andrew 👋</h1>
+<!-- Profile badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=andrewdotdev&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/andrewdotdev?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/andrewdotdev?style=for-the-badge&logo=github" alt="GitHub stars" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm andrewdotdev! 🚀</h3>
-<!-- Here goes some social media LOL --> 
-<img src="https://komarev.com/ghpvc/?username=andrewdotdev0&color=red">
-Hi there, I'm <strong>Andrew<strong>, from Spain, and my hobby is <strong>Programming<strong> (no specialization) 💻.
-<br>
-Currently, I'm an enthusiast of developing applications for discord.
-<br>
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br>
-<strong>About Me!<strong>
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+  <div style="flex:1; min-width:280px;">
+    <h2>🧩 About me</h2>
+    <ul>
+      <li>Self-taught dev, no formal degree</li>
+      <li><strong>Rustacean 🦀</strong></li>
+      <li>Prefer working on backend
+    </ul>
+  </div>
 
-- 👨🏽‍💻 I’m currently working as a Discord Applications Developer.
-- 🌱 I’m currently learning Typescript && C#. 
-- 🤔 My interests are music players and videogames.
-- 💬 I like to do some stuff in a developer group.
-- 🛰️ See [VoidX App](https://bit.ly/voidxtopgg).
-<!-- - 📫 Email me at [email](mailto:email). -->
+  <div style="flex:1; min-width:280px;">
+    <h2>🛠️ Tech stack</h2>
+    <p>
+      <!-- Languages -->
+      <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,cs&perline=8" alt="langs" />
+    </p>
+    <p>
+      <!-- Tools / Engines -->
+      <img src="https://skillicons.dev/icons?i=bash,git,unity,unreal,vscodium,arch,linux&perline=8" alt="tools" />
+    </p>
+  <p>
+    <img src="https://img.shields.io/badge/CLI%20NERD-555?style=flat&logo=gnometerminal" />
+    <img src="https://img.shields.io/badge/BUG%20SUMMONER-555?style=flat&logo=bugsnag" />
+  </p>
 
+    
+  </div>
+</div>
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<h2>📬 Contact</h2>
+<p>
+  <a href="https://github.com/andrewdotdev">
+    <img src="https://img.shields.io/badge/GitHub-andrewdotdev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://discordapp.com/users/500739289462603805">
+    <img src="https://img.shields.io/badge/Discord-request%20DMs-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://i.imgur.com/NfzkYeq.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://i.imgur.com/ebn2Fzc.png"></code>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=andrewdotdev0&show_icons=true&hide_border=true&count_private=true&theme=aura-dark&icon_color=fad000" alt="andrewdotdev0's GitHub Stats">
+<h2>📈 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewdotdev&show_icons=true&hide_rank=true&hide_title=true&hide=issues&include_all_commits=true&theme=transparent" height="135" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdotdev&layout=compact&theme=transparent" height="135" />
+</p>
